@@ -2,7 +2,7 @@
 
 Me chamo Giovanna
 
-- Estou estudando atualmente na Alura;
+- Estou estudando atualmente na [Alura](https://www.alura.com.br);
 - Estou aprendendo as linguagens básica;
 - Aqui disponibilizo projetos feitos em eventos gratuitos e alguns que estou a desenvolver.
 
